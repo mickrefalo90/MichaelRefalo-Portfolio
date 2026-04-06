@@ -1,17 +1,19 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@400;500;600;700;800&family=Caveat:wght@400;700&display=swap');
 @import "tailwindcss";
 
 @theme {
   --font-sans: "Montserrat", ui-sans-serif, system-ui, sans-serif;
   --font-display: "Bebas Neue", sans-serif;
+  --font-handwritten: "Caveat", cursive;
   --color-brand-primary: #1a1a1a;
-  --color-brand-accent: #3b82f6;
+  --color-brand-accent: #00B137;
+  --color-brand-highlight: #00B137;
   --color-bg-base: #fdfcfb;
 }
 
 @layer base {
   body {
-    @apply bg-[--color-bg-base] text-zinc-900 selection:bg-zinc-900 selection:text-white;
+    @apply bg-[--color-bg-base] text-zinc-900 selection:bg-[--color-brand-highlight] selection:text-white;
   }
 }
 
