@@ -287,19 +287,11 @@ export default function App() {
             <h2 className="text-7xl md:text-9xl font-display tracking-wider uppercase leading-[0.8]">Meet <br /> Michael <br /> Refalo.</h2>
             <div className="space-y-8 text-zinc-400 text-xl leading-relaxed">
               <p>
-                Michael Refalo is a creative force of nature with 15+ years of experience turning "what if" into "holy cow." 
-                He operates at the high-stakes intersection of brand strategy and visual alchemy, possessing the rare ability 
-                to conceptualise the impossible and then lead a team to build it.
-              </p>
-              <p>
-                From the whimsical global stage of The Wiggles to the high-octane retail of Toys'R'Us, Michael navigates 
-                diverse industries with a strategist’s precision and an artist’s soul. He doesn't just stay on trend; 
-                he interrogates the cultural zeitgeist to ensure every solution is as innovative as it is effective.
-              </p>
-              <p>
-                He is a mentor, a guide, and a relentless problem-solver who thinks three steps ahead of the curve. 
-                If there’s an angle he hasn’t considered, it probably doesn’t exist. Clever, innovative, and deeply 
-                passionate, Michael is the candidate who doesn't just fill a role; he redefines it.
+              With over 15 years of experience in brand strategy and creative design, Michael Refalo specialises in turning complex concepts into engaging visuals that are not only effective but also fun! He has had the opportunity to lead creative projects and teams across various industries, including work with notable brands like The Wiggles, TPG Telecom and Toys'R'Us. </p>
+
+<p>Michael takes a balanced approach in day-to-day creation. Ensuring that with every creative execution, he delivers effective solutions that impress the client and resonate with audiences. </p>
+
+<p>Beyond his creative work, he is a dedicated mentor and collaborative problem-solver who values guiding teams, pushing their creative boundaries and exploring thoughtful, innovative approaches for every presented challenge.
               </p>
             </div>
             
@@ -348,7 +340,7 @@ export default function App() {
                   className="relative px-8 py-4"
                 >
                   <p className="font-handwritten text-4xl md:text-6xl text-[#00B137] leading-[0.75] text-center transform -rotate-3 select-none">
-                    Michael's<br />Business Partner
+                    The Real<br />Creative Genious
                   </p>
                 </motion.div>
               </div>
